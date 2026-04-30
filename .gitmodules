@@ -1,6 +1,6 @@
 [submodule "lib/gkl"]
 	path = lib/gkl
-	url = https://github.com/gregdavill/gsd-kicad-libs.git
+	url = https://github.com/w531t4/gsd-kicad-libs.git
 [submodule "documentation/hugo-files/themes/book"]
 	path = documentation/hugo-files/themes/book
 	url = https://github.com/gregdavill/hugo-book.git
