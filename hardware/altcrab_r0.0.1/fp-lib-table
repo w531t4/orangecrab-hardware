@@ -11,4 +11,5 @@
   (lib (name "gkl_time")(type "KiCad")(uri "${KIPRJMOD}/../../lib/gkl/gkl_time.pretty")(options "")(descr ""))
   (lib (name "gkl_led")(type "KiCad")(uri "${KIPRJMOD}/../../lib/gkl/gkl_led.pretty")(options "")(descr ""))
   (lib (name "gkl_misc")(type "KiCad")(uri "${KIPRJMOD}/../../lib/gkl/gkl_misc.pretty")(options "")(descr ""))
+  (lib (name "w531t4_altcrab_footprints")(type "KiCad")(uri "/home/awhite/Documents/Projects/orangecrab-hardware/lib/w531t4/altcrab_footprints.pretty")(options "")(descr ""))
 )
