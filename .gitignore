@@ -69,5 +69,8 @@ __pycache__
 # Migen/Litex artifacts
 test/csr.csv
 
-# hugo files 
+# hugo files
 documentation/hugo-files/public*
+
+# backups (git has them)
+/hardware/altcrab_r0.0.1/OrangeCrab-backups/*
