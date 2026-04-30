@@ -6682,10 +6682,6 @@
 					(reference "J2")
 					(unit 1)
 				)
-				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005d1738db"
-					(reference "J?")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -6792,10 +6788,6 @@
 			(project "OrangeCrab"
 				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005abc9a87"
 					(reference "J1")
-					(unit 1)
-				)
-				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005d1738db"
-					(reference "J?")
 					(unit 1)
 				)
 			)
@@ -7374,10 +7366,6 @@
 			(project "OrangeCrab"
 				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005abc9a87"
 					(reference "#PWR0121")
-					(unit 1)
-				)
-				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005d1738db"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -11057,10 +11045,6 @@
 			(project "OrangeCrab"
 				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005abc9a87"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-				(path "/098eb85a-7e69-4f62-943b-d5eb2f4a05d0/00000000-0000-0000-0000-00005d1738db"
-					(reference "#PWR?")
 					(unit 1)
 				)
 			)
