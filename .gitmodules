@@ -5,3 +5,6 @@
 	path = documentation/hugo-files/themes/book
 	url = https://github.com/gregdavill/hugo-book.git
 	branch = oc
+[submodule "lib/w531t4"]
+	path = lib/w531t4
+	url = https://github.com/w531t4/w531t4_kicad_libs.git
