@@ -6593,7 +6593,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gkl_conn:Feather_PinHeader_1x16"
+		(property "Footprint" "w531t4_altcrab_footprints:Feather_PinHeader_1x16_castellated"
 			(at 229.87 114.3 0)
 			(effects
 				(font
@@ -6713,7 +6713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "gkl_conn:Feather_PinHeader_1x12"
+		(property "Footprint" "w531t4_altcrab_footprints:Feather_PinHeader_1x12 _ castellated"
 			(at 223.52 72.39 0)
 			(effects
 				(font
